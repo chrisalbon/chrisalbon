@@ -6,4 +6,4 @@ I am the Director of Machine Learning at the Wikimedia Foundation. I have worked
 
 Previously I've created two machine learning resources, [machine learning flashcards](https://machinelearningflashcards.com) and my book, the [Machine Learning With Python Cookbook](https://www.amazon.com/Machine-Learning-Python-Cookbook-Preprocessing/dp/1491989386).
 
-[Email](mailto:cralbon@gmail.com) / [X](https://x.com/chrisalbon) / [LinkedIn](https://www.linkedin.com/in/chrisralbon/)
+[Email](mailto:cralbon@gmail.com) / [X](https://x.com/chrisalbon) / [Bluesky](https://bsky.app/profile/chrisalbon.com) / [LinkedIn](https://www.linkedin.com/in/chrisralbon/)
